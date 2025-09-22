@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**shubham1709kr/shubham1709kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shubham, a self‑taught data analyst from India 🇮🇳. This is my arena to showcase my projects.
 
-Here are some ideas to get you started:
+## 🚀 Core Competencies
+- **Tools:** SQL, Power BI, DAX, Python, Excel (Power Query)
+- **Skills:** Data Cleaning, Data Analysis, Data Visualization, Dashboarding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✅ Currently
+- Learning Python libraries — Pandas, Numpy
+- Building portfolio dashboards and case studies (sales, credit card analytics)
+
+## ☕ Connect with Me!
+Feel free to contact me about my work or to discuss opportunities. I’m always looking for new challenges and ways to apply my skills in data analysis.
+
+- [LinkedIn](www.linkedin.com/in/shubhamkr17)
+- [Resume (PDF)](https://drive.google.com/file/d/1bS5JGs9FXRgZRzTD5gajjedKy8jW2W3A/view?usp=sharing)
