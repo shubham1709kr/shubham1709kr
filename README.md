@@ -13,5 +13,5 @@ I'm Shubham, a self‑taught data analyst from India 🇮🇳. This is my arena 
 ## ☕ Connect with Me!
 Feel free to contact me about my work or to discuss opportunities. I’m always looking for new challenges and ways to apply my skills in data analysis.
 
-- [LinkedIn](linkedin.com/in/shubhamkr17)
+- [LinkedIn](https://www.linkedin.com/in/shubhamkr17/)
 - [Resume (PDF)](https://drive.google.com/file/d/1ELzHLLstbcReL_qU9cxnnzz8pRbrpPda/view?usp=sharing)
