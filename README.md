@@ -15,3 +15,4 @@ Feel free to contact me about my work or to discuss opportunities. I’m always 
 
 - [LinkedIn](https://www.linkedin.com/in/shubhamkr17/)
 - [Resume (PDF)](https://drive.google.com/file/d/1ELzHLLstbcReL_qU9cxnnzz8pRbrpPda/view?usp=sharing)
+- [Email](mailto:shubhamkumar17.work@gmail.com)
